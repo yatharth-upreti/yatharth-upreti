@@ -1,10 +1,6 @@
-Hello.
+Hello, there :)
 
-Hobby-coder.
-
-Budding programmer.
-
-Currently interested in C and some web development.
+Currently interested in : Python and Backend Programming.
 
 Have a good day, friend.
 
